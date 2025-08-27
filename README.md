@@ -27,7 +27,7 @@ pip install -r requirements.txt
 Finally, configure your API key by creating a .env file in the project root and adding:
 
 ```bash
-API_KEY = sua chave
+API_KEY = your key
 ```
 
 ## How to create an executable
